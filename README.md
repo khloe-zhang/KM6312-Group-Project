@@ -6,7 +6,7 @@ This is the repository for our group project files. We are Group 4 on NTU Learn,
 
 Our project topic is: **Sentiment Analysis of IMDB Movie Reviews Based on NLP Techniques**.
 
-Our group member include:
+Our group members include:
 
 **Lin Fengyi**
 
