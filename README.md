@@ -2,7 +2,7 @@
 
 Hi Professors, 
 
-This is the repository for our group project files. We are Group 4 on NTU Learn, and the name we used for the earlier proposal is "Group You Are Right".
+This is the repository for our group project files. We are Group 4 on NTU Learn, and the group name is "Group You Are Right".
 
 Our project topic is: **Sentiment Analysis of IMDB Movie Reviews Based on NLP Techniques**.
 
